@@ -1,0 +1,74 @@
+{
+  "schema": "https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json",
+  "title": "German-Brazilian-Newspapers-Dataset Part 2",
+  "url": "https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2",
+  "authors": [
+    {
+      "name": "Alessandra",
+      "surname": "Belézia Araujo",
+      "orcid": "0000-0001-5993-288X",
+      "roles": [
+        "transcriber",
+        "aligner",
+        "project-manager",
+        "quality-control",
+        "digitization",
+        "support"
+      ]
+    },
+    {
+      "name": "Matthias",
+      "surname": "Boenig",
+      "orcid": "0000-0003-4615-4753",
+      "roles": [
+        "quality-control"
+      ]
+    }
+  ],
+  "description": "The GBN Dataset consists from four different German-Brazilian historical newspapers, along with their digital and binarized images and ground truth files. The GBN-Dataset Corpus consists of two parts.  The parts are designated numerically.  German-Brazilian-Newspapers-Dataset_1 = Part 1; German-Brazilian-Newspapers-Dataset_2 = Part 2 It is a dataset created for evaluation of layout analysis methods.",
+  "project-name": "German-Brazilian Newspapers (GBN) ",
+  "project-website": "https://web.inf.ufpr.br/vri/databases/gbn/",
+  "language": [
+    "deu"
+  ],
+  "production-software": "Aletheia",
+  "script": [
+    "Latn",
+    "Goth"
+  ],
+  "script-type": "print",
+  "time": {
+    "notBefore": "1863",
+    "notAfter": "1880"
+  },
+  "hands": {
+    "count": "3",
+    "level": "levelmix"
+  },
+  "license": [
+    {
+      "name": "PublicDomainMark 1.0",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  ],
+  "gtTyp": "data_structure",
+  "format": "Page-XML",
+  "volume": {
+    "TxtRegion": "1967",
+    "GraphRegion": "95",
+    "SepRegion": "467",
+    "Page": "34"
+  },
+  "labelling": [
+    "content-type/corpus",
+    "platform/platform-independent",
+    "content-encoding/structured",
+    "activityDomain/computing/visual/analysisRecognition/layoutAnalysis",
+    "contentOfInterest/visual/graphical",
+    "contentOfInterest/visual/graphical/separator",
+    "granularity/physical/document-related/page",
+    "granularity/logical/document-related/paragraph",
+    "data-attributes/document-related/visual/text/font/typeface/blackletter",
+    "data-attributes/document-related/visual/text/font/typeface/antiqua"
+  ]
+}
