@@ -1,6 +1,6 @@
 <div>
-   <h1 id="title">GBN Dataset</h1>
-   <p id="paragraph">The GBN Dataset consists from four different German-Brazilian historical newspapers, along with their digital and binarized images and ground truth files. It is a dataset created for evaluation of layout analysis methods.</p>
+   <h1 id="title">German-Brazilian-Newspapers-Dataset Part 2</h1>
+   <p id="paragraph">The GBN Dataset consists from four different German-Brazilian historical newspapers, along with their digital and binarized images and ground truth files. The GBN-Dataset Corpus consists of two parts.  The parts are designated numerically.  German-Brazilian-Newspapers-Dataset_1 = Part 1; German-Brazilian-Newspapers-Dataset_2 = Part 2 It is a dataset created for evaluation of layout analysis methods.</p>
    <h2>Metadata</h2>
    <dl class="grid">
       <dt id="Language">Language:</dt>
@@ -8,7 +8,7 @@
       <dt id="Format">Format:</dt>
       <dd>Page-XML</dd>
       <dt id="Time">Time:</dt>
-      <dd>1912-1940</dd>
+      <dd>1863-1880</dd>
       <dt id="GTT">GT Type:</dt>
       <dd>data_structure</dd>
       <dt id="License">License:</dt>
@@ -43,22 +43,22 @@
       </thead>
       <tbody>
          <tr>
-            <td>1113</td>
-            <td>18</td>
-            <td>0</td>
-            <td>86</td>
+            <td>1967</td>
             <td>0</td>
             <td>0</td>
-            <td>157</td>
+            <td>95</td>
             <td>0</td>
             <td>0</td>
+            <td>467</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>68</td>
+            <td>0</td>
+            <td>0</td>
+            <td>34</td>
          </tr>
       </tbody>
    </table>
@@ -89,33 +89,14 @@
             </thead>
             <tbody>
                <tr>
-                  <td>DerSandwirt</td>
-                  <td>274</td>
-                  <td>14</td>
-                  <td/>
-                  <td>24</td>
+                  <td>KolonieZeitung</td>
+                  <td>752</td>
                   <td/>
                   <td/>
-                  <td>65</td>
+                  <td>57</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>17</td>
-               </tr>
-               <tr>
-                  <td>EvLuthKirchenblatt</td>
-                  <td>330</td>
-                  <td>2</td>
-                  <td/>
-                  <td>19</td>
-                  <td/>
-                  <td/>
-                  <td>34</td>
+                  <td>256</td>
                   <td/>
                   <td/>
                   <td/>
@@ -127,33 +108,14 @@
                   <td>17</td>
                </tr>
                <tr>
-                  <td>DerGemeindebote</td>
-                  <td>226</td>
+                  <td>DerPionier</td>
+                  <td>1215</td>
                   <td/>
                   <td/>
-                  <td>27</td>
+                  <td>38</td>
                   <td/>
                   <td/>
-                  <td>30</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>19</td>
-               </tr>
-               <tr>
-                  <td>DerJugendfreund</td>
-                  <td>283</td>
-                  <td>2</td>
-                  <td/>
-                  <td>16</td>
-                  <td/>
-                  <td/>
-                  <td>28</td>
+                  <td>211</td>
                   <td/>
                   <td/>
                   <td/>
@@ -162,7 +124,7 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>15</td>
+                  <td>17</td>
                </tr>
             </tbody>
          </table>
