@@ -16,7 +16,14 @@
       <dt>Name:</dt>
       <dd>German-Brazilian-Newspapers-Dataset Part 2</dd>
       <dt>Description:</dt>
-      <dd>The GBN Dataset consists from four different German-Brazilian historical newspapers, along with their digital and binarized images and ground truth files. The GBN-Dataset Corpus consists of two parts.  The parts are designated numerically.  German-Brazilian-Newspapers-Dataset_1 = Part 1; German-Brazilian-Newspapers-Dataset_2 = Part 2 It is a dataset created for evaluation of layout analysis methods.</dd>
+      <dd>The GBN Dataset consists from four different German-Brazilian historical
+newspapers, along with their digital and binarized images and ground truth
+files. The GBN-Dataset Corpus consists of two parts. 
+The parts are designated numerically. 
+German-Brazilian-Newspapers-Dataset_1 = Part 1,
+German-Brazilian-Newspapers-Dataset_2 = Part 2.
+It is a dataset created for evaluation of layout analysis methods.
+</dd>
       <dt>Language:</dt>
       <dd>deu</dd>
       <dt>Format:</dt>
@@ -225,7 +232,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/KolonieZeitung/GT-PAGE/Kolonie18710513-p01.xml">Kolonie18710513-p01.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/KolonieZeitung/GT-PAGE/Kolonie18710513-p01.xml">Kolonie18710513-p01.xml</a>
                            </td>
                            <td>20</td>
                            <td>0</td>
@@ -244,7 +251,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/KolonieZeitung/GT-PAGE/Kolonie18630328-p04.xml">Kolonie18630328-p04.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/KolonieZeitung/GT-PAGE/Kolonie18630328-p04.xml">Kolonie18630328-p04.xml</a>
                            </td>
                            <td>52</td>
                            <td>0</td>
@@ -263,7 +270,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/KolonieZeitung/GT-PAGE/Kolonie18640716-p01.xml">Kolonie18640716-p01.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/KolonieZeitung/GT-PAGE/Kolonie18640716-p01.xml">Kolonie18640716-p01.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -282,7 +289,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/KolonieZeitung/GT-PAGE/Kolonie18690605-p04.xml">Kolonie18690605-p04.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/KolonieZeitung/GT-PAGE/Kolonie18690605-p04.xml">Kolonie18690605-p04.xml</a>
                            </td>
                            <td>43</td>
                            <td>0</td>
@@ -301,7 +308,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/KolonieZeitung/GT-PAGE/Kolonie18840829-p04.xml">Kolonie18840829-p04.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/KolonieZeitung/GT-PAGE/Kolonie18840829-p04.xml">Kolonie18840829-p04.xml</a>
                            </td>
                            <td>93</td>
                            <td>0</td>
@@ -320,7 +327,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/KolonieZeitung/GT-PAGE/Kolonie18820527-p04.xml">Kolonie18820527-p04.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/KolonieZeitung/GT-PAGE/Kolonie18820527-p04.xml">Kolonie18820527-p04.xml</a>
                            </td>
                            <td>83</td>
                            <td>0</td>
@@ -339,7 +346,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/KolonieZeitung/GT-PAGE/Kolonie18690605-p01.xml">Kolonie18690605-p01.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/KolonieZeitung/GT-PAGE/Kolonie18690605-p01.xml">Kolonie18690605-p01.xml</a>
                            </td>
                            <td>22</td>
                            <td>0</td>
@@ -358,7 +365,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/KolonieZeitung/GT-PAGE/Kolonie18630131-p04.xml">Kolonie18630131-p04.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/KolonieZeitung/GT-PAGE/Kolonie18630131-p04.xml">Kolonie18630131-p04.xml</a>
                            </td>
                            <td>44</td>
                            <td>0</td>
@@ -377,7 +384,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/KolonieZeitung/GT-PAGE/Kolonie18650715-p01.xml">Kolonie18650715-p01.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/KolonieZeitung/GT-PAGE/Kolonie18650715-p01.xml">Kolonie18650715-p01.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -396,7 +403,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/KolonieZeitung/GT-PAGE/Kolonie18640130-p01.xml">Kolonie18640130-p01.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/KolonieZeitung/GT-PAGE/Kolonie18640130-p01.xml">Kolonie18640130-p01.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -415,7 +422,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/KolonieZeitung/GT-PAGE/Kolonie18750417-p03.xml">Kolonie18750417-p03.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/KolonieZeitung/GT-PAGE/Kolonie18750417-p03.xml">Kolonie18750417-p03.xml</a>
                            </td>
                            <td>81</td>
                            <td>0</td>
@@ -434,7 +441,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/KolonieZeitung/GT-PAGE/Kolonie18650715-p04.xml">Kolonie18650715-p04.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/KolonieZeitung/GT-PAGE/Kolonie18650715-p04.xml">Kolonie18650715-p04.xml</a>
                            </td>
                            <td>59</td>
                            <td>0</td>
@@ -453,7 +460,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/KolonieZeitung/GT-PAGE/Kolonie18670817-p01.xml">Kolonie18670817-p01.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/KolonieZeitung/GT-PAGE/Kolonie18670817-p01.xml">Kolonie18670817-p01.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -472,7 +479,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/KolonieZeitung/GT-PAGE/Kolonie18700604-p01.xml">Kolonie18700604-p01.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/KolonieZeitung/GT-PAGE/Kolonie18700604-p01.xml">Kolonie18700604-p01.xml</a>
                            </td>
                            <td>20</td>
                            <td>0</td>
@@ -491,7 +498,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/KolonieZeitung/GT-PAGE/Kolonie18700604-p04.xml">Kolonie18700604-p04.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/KolonieZeitung/GT-PAGE/Kolonie18700604-p04.xml">Kolonie18700604-p04.xml</a>
                            </td>
                            <td>65</td>
                            <td>0</td>
@@ -510,7 +517,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/KolonieZeitung/GT-PAGE/Kolonie18810903-p04.xml">Kolonie18810903-p04.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/KolonieZeitung/GT-PAGE/Kolonie18810903-p04.xml">Kolonie18810903-p04.xml</a>
                            </td>
                            <td>77</td>
                            <td>0</td>
@@ -529,7 +536,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/KolonieZeitung/GT-PAGE/Kolonie18640716-p04.xml">Kolonie18640716-p04.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/KolonieZeitung/GT-PAGE/Kolonie18640716-p04.xml">Kolonie18640716-p04.xml</a>
                            </td>
                            <td>42</td>
                            <td>0</td>
@@ -595,7 +602,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/DerPionier/GT-PAGE/DerPionier_18890119-p04.xml">DerPionier_18890119-p04.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/DerPionier/GT-PAGE/DerPionier_18890119-p04.xml">DerPionier_18890119-p04.xml</a>
                            </td>
                            <td>97</td>
                            <td>0</td>
@@ -614,7 +621,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/DerPionier/GT-PAGE/DerPionier_18900702-p02.xml">DerPionier_18900702-p02.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/DerPionier/GT-PAGE/DerPionier_18900702-p02.xml">DerPionier_18900702-p02.xml</a>
                            </td>
                            <td>85</td>
                            <td>0</td>
@@ -633,7 +640,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/DerPionier/GT-PAGE/DerPionier_18881027-p02.xml">DerPionier_18881027-p02.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/DerPionier/GT-PAGE/DerPionier_18881027-p02.xml">DerPionier_18881027-p02.xml</a>
                            </td>
                            <td>45</td>
                            <td>0</td>
@@ -652,7 +659,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/DerPionier/GT-PAGE/DerPionier_18880121-p02.xml">DerPionier_18880121-p02.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/DerPionier/GT-PAGE/DerPionier_18880121-p02.xml">DerPionier_18880121-p02.xml</a>
                            </td>
                            <td>54</td>
                            <td>0</td>
@@ -671,7 +678,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/DerPionier/GT-PAGE/DerPionier_18881027-p04.xml">DerPionier_18881027-p04.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/DerPionier/GT-PAGE/DerPionier_18881027-p04.xml">DerPionier_18881027-p04.xml</a>
                            </td>
                            <td>109</td>
                            <td>0</td>
@@ -690,7 +697,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/DerPionier/GT-PAGE/DerPionier_18890119-p01.xml">DerPionier_18890119-p01.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/DerPionier/GT-PAGE/DerPionier_18890119-p01.xml">DerPionier_18890119-p01.xml</a>
                            </td>
                            <td>74</td>
                            <td>0</td>
@@ -709,7 +716,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/DerPionier/GT-PAGE/DerPionier_18900702-p03.xml">DerPionier_18900702-p03.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/DerPionier/GT-PAGE/DerPionier_18900702-p03.xml">DerPionier_18900702-p03.xml</a>
                            </td>
                            <td>100</td>
                            <td>0</td>
@@ -728,7 +735,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/DerPionier/GT-PAGE/DerPionier_18890119-p03.xml">DerPionier_18890119-p03.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/DerPionier/GT-PAGE/DerPionier_18890119-p03.xml">DerPionier_18890119-p03.xml</a>
                            </td>
                            <td>77</td>
                            <td>0</td>
@@ -747,7 +754,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/DerPionier/GT-PAGE/DerPionier_18911125-p01.xml">DerPionier_18911125-p01.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/DerPionier/GT-PAGE/DerPionier_18911125-p01.xml">DerPionier_18911125-p01.xml</a>
                            </td>
                            <td>48</td>
                            <td>0</td>
@@ -766,7 +773,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/DerPionier/GT-PAGE/DerPionier_18890119-p02.xml">DerPionier_18890119-p02.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/DerPionier/GT-PAGE/DerPionier_18890119-p02.xml">DerPionier_18890119-p02.xml</a>
                            </td>
                            <td>45</td>
                            <td>0</td>
@@ -785,7 +792,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/DerPionier/GT-PAGE/DerPionier_18881027-p03.xml">DerPionier_18881027-p03.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/DerPionier/GT-PAGE/DerPionier_18881027-p03.xml">DerPionier_18881027-p03.xml</a>
                            </td>
                            <td>90</td>
                            <td>0</td>
@@ -804,7 +811,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/DerPionier/GT-PAGE/DerPionier_18881027-p01.xml">DerPionier_18881027-p01.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/DerPionier/GT-PAGE/DerPionier_18881027-p01.xml">DerPionier_18881027-p01.xml</a>
                            </td>
                            <td>34</td>
                            <td>0</td>
@@ -823,7 +830,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/DerPionier/GT-PAGE/DerPionier_18911125-p02.xml">DerPionier_18911125-p02.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/DerPionier/GT-PAGE/DerPionier_18911125-p02.xml">DerPionier_18911125-p02.xml</a>
                            </td>
                            <td>47</td>
                            <td>0</td>
@@ -842,7 +849,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/DerPionier/GT-PAGE/DerPionier_18880121-p04.xml">DerPionier_18880121-p04.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/DerPionier/GT-PAGE/DerPionier_18880121-p04.xml">DerPionier_18880121-p04.xml</a>
                            </td>
                            <td>72</td>
                            <td>0</td>
@@ -861,7 +868,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/DerPionier/GT-PAGE/DerPionier_18880121-p05.xml">DerPionier_18880121-p05.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/DerPionier/GT-PAGE/DerPionier_18880121-p05.xml">DerPionier_18880121-p05.xml</a>
                            </td>
                            <td>113</td>
                            <td>0</td>
@@ -880,7 +887,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/DerPionier/GT-PAGE/DerPionier_18911125-p03.xml">DerPionier_18911125-p03.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/DerPionier/GT-PAGE/DerPionier_18911125-p03.xml">DerPionier_18911125-p03.xml</a>
                            </td>
                            <td>60</td>
                            <td>0</td>
@@ -899,7 +906,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.0/data/DerPionier/GT-PAGE/DerPionier_18880121-p03.xml">DerPionier_18880121-p03.xml</a>
+                              <a href="https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/blob/v1.0.1/data/DerPionier/GT-PAGE/DerPionier_18880121-p03.xml">DerPionier_18880121-p03.xml</a>
                            </td>
                            <td>65</td>
                            <td>0</td>
