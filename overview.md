@@ -24,10 +24,13 @@
    <h2>Details</h2>
    <ul>
       <li>
-         <a href="metadata">Metadata</a>
+         <a href="metadata">Metadata about Ground Truth</a>
       </li>
       <li>
-         <a href="table">Compressed table view</a>
+         <a href="table">Compressed table view about regions</a>
+      </li>
+      <li>
+         <a href="overview-level">Level Matrix</a>
       </li>
    </ul>
 </div>
@@ -134,63 +137,6 @@
    </thead>
    <tbody>
       <tr>
-         <th>Kolonie18710513-p01.xml</th>
-         <td>20</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>7</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>Kolonie18630328-p04.xml</th>
-         <td>52</td>
-         <td>0</td>
-         <td>0</td>
-         <td>8</td>
-         <td>0</td>
-         <td>0</td>
-         <td>22</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>Kolonie18640716-p01.xml</th>
-         <td>13</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
          <th>Kolonie18690605-p04.xml</th>
          <td>43</td>
          <td>0</td>
@@ -199,82 +145,6 @@
          <td>0</td>
          <td>0</td>
          <td>17</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>Kolonie18840829-p04.xml</th>
-         <td>93</td>
-         <td>0</td>
-         <td>0</td>
-         <td>11</td>
-         <td>0</td>
-         <td>0</td>
-         <td>17</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>Kolonie18820527-p04.xml</th>
-         <td>83</td>
-         <td>0</td>
-         <td>0</td>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>27</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>Kolonie18690605-p01.xml</th>
-         <td>22</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>7</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>Kolonie18630131-p04.xml</th>
-         <td>44</td>
-         <td>0</td>
-         <td>0</td>
-         <td>9</td>
-         <td>0</td>
-         <td>0</td>
-         <td>16</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -305,14 +175,14 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>Kolonie18640130-p01.xml</th>
-         <td>13</td>
+         <th>Kolonie18630328-p04.xml</th>
+         <td>52</td>
          <td>0</td>
          <td>0</td>
-         <td>2</td>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
-         <td>5</td>
+         <td>22</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -332,6 +202,158 @@
          <td>0</td>
          <td>0</td>
          <td>25</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>Kolonie18640130-p01.xml</th>
+         <td>13</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>Kolonie18690605-p01.xml</th>
+         <td>22</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>7</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>Kolonie18810903-p04.xml</th>
+         <td>77</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>23</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>Kolonie18700604-p04.xml</th>
+         <td>65</td>
+         <td>0</td>
+         <td>0</td>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>20</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>Kolonie18840829-p04.xml</th>
+         <td>93</td>
+         <td>0</td>
+         <td>0</td>
+         <td>11</td>
+         <td>0</td>
+         <td>0</td>
+         <td>17</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>Kolonie18640716-p01.xml</th>
+         <td>13</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>Kolonie18710513-p01.xml</th>
+         <td>20</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>7</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>Kolonie18640716-p04.xml</th>
+         <td>42</td>
+         <td>0</td>
+         <td>0</td>
+         <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>20</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -400,33 +422,14 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>Kolonie18700604-p04.xml</th>
-         <td>65</td>
+         <th>Kolonie18630131-p04.xml</th>
+         <td>44</td>
          <td>0</td>
          <td>0</td>
-         <td>6</td>
+         <td>9</td>
          <td>0</td>
          <td>0</td>
-         <td>20</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>Kolonie18810903-p04.xml</th>
-         <td>77</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>23</td>
+         <td>16</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -438,14 +441,14 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>Kolonie18640716-p04.xml</th>
-         <td>42</td>
+         <th>Kolonie18820527-p04.xml</th>
+         <td>83</td>
          <td>0</td>
          <td>0</td>
          <td>4</td>
          <td>0</td>
          <td>0</td>
-         <td>20</td>
+         <td>27</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -465,139 +468,6 @@
          <td>0</td>
          <td>0</td>
          <td>19</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerPionier_18900702-p02.xml</th>
-         <td>85</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>9</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerPionier_18881027-p02.xml</th>
-         <td>45</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>10</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerPionier_18880121-p02.xml</th>
-         <td>54</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>10</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerPionier_18881027-p04.xml</th>
-         <td>109</td>
-         <td>0</td>
-         <td>0</td>
-         <td>8</td>
-         <td>0</td>
-         <td>0</td>
-         <td>20</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerPionier_18890119-p01.xml</th>
-         <td>74</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>10</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerPionier_18900702-p03.xml</th>
-         <td>100</td>
-         <td>0</td>
-         <td>0</td>
-         <td>6</td>
-         <td>0</td>
-         <td>0</td>
-         <td>16</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>DerPionier_18890119-p03.xml</th>
-         <td>77</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>12</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -666,8 +536,84 @@
          <td>1</td>
       </tr>
       <tr>
+         <th>DerPionier_18881027-p04.xml</th>
+         <td>109</td>
+         <td>0</td>
+         <td>0</td>
+         <td>8</td>
+         <td>0</td>
+         <td>0</td>
+         <td>20</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerPionier_18900702-p02.xml</th>
+         <td>85</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>9</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerPionier_18880121-p05.xml</th>
+         <td>113</td>
+         <td>0</td>
+         <td>0</td>
+         <td>11</td>
+         <td>0</td>
+         <td>0</td>
+         <td>19</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
          <th>DerPionier_18881027-p01.xml</th>
          <td>34</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>10</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerPionier_18881027-p02.xml</th>
+         <td>45</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -704,11 +650,49 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>DerPionier_18880121-p04.xml</th>
-         <td>72</td>
+         <th>DerPionier_18880121-p02.xml</th>
+         <td>54</td>
          <td>0</td>
          <td>0</td>
-         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>10</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerPionier_18890119-p01.xml</th>
+         <td>74</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>10</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerPionier_18880121-p03.xml</th>
+         <td>65</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>12</td>
@@ -723,14 +707,33 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>DerPionier_18880121-p05.xml</th>
-         <td>113</td>
+         <th>DerPionier_18890119-p03.xml</th>
+         <td>77</td>
          <td>0</td>
          <td>0</td>
-         <td>11</td>
          <td>0</td>
          <td>0</td>
-         <td>19</td>
+         <td>0</td>
+         <td>12</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>DerPionier_18900702-p03.xml</th>
+         <td>100</td>
+         <td>0</td>
+         <td>0</td>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>16</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -761,11 +764,11 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>DerPionier_18880121-p03.xml</th>
-         <td>65</td>
+         <th>DerPionier_18880121-p04.xml</th>
+         <td>72</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>12</td>
