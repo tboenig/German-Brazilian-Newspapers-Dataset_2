@@ -1,0 +1,26 @@
+
+cff-version: 1.2.0
+title: German-Brazilian-Newspapers-Dataset Part 2
+message: If you use this dataset, please cite it using the metadata from this file.
+type: dataset
+authors:
+    - given-names: Alessandra
+      family-names: Belézia Araujo
+      orcid: 0000-0001-5993-288X
+    - given-names: Matthias
+      family-names: Boenig
+      orcid: 0000-0003-4615-4753
+repository-code: 'https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2'
+url: 'https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2'
+abstract: |-
+    The GBN Dataset consists from four different German-Brazilian historical newspapers, along with their digital and binarized images and ground truth files. The GBN-Dataset Corpus consists of two parts. The parts are designated numerically. German-Brazilian-Newspapers-Dataset_1 = Part 1, German-Brazilian-Newspapers-Dataset_2 = Part 2. It is a dataset created for evaluation of layout analysis methods.
+keywords:
+    - ocr-d
+    - repository
+    - segmentation
+    - ground-truth
+    - data_structure
+license: PublicDomainMark 1.0
+commit: t1.1.0
+version: 1_t1.1.0
+date-released: '2024-1-17'
