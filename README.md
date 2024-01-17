@@ -173,14 +173,14 @@ It is a dataset created for evaluation of layout analysis methods.
                <td style="width: 83.0667px;text-align: center">
                   <strong>Image size (in pixels)</strong>
                </td>
-               </tr>
+            </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Der Gemeindebote”</td>
                <td style="width: 88.35px">1935-1938</td>
                <td style="width: 60.4px">Fraktur</td>
                <td style="width: 87.4333px">German</td>
                <td style="width: 83.0667px">3850 x 5480</td>
-               </tr>
+            </tr>
             <tr>
                <td style="width: 127.75px;text-align: left">“Der Jugendfreund”</td>
                <td style="width: 88.35px">1911-1917</td>
