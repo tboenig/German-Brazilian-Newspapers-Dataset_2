@@ -53,7 +53,7 @@
   ],
   "gtTyp": "data_structure",
   "format": "Page-XML",
-  "volume": {
+  "gtvolume": {
     "TxtRegion": "1967",
     "GraphRegion": "95",
     "SepRegion": "467",
