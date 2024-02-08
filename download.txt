@@ -1,1 +1,1 @@
-https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/releases/download/t1.1.4/KolonieZeitung.ocrd.ziphttps://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/releases/download/t1.1.4/DerPionier.ocrd.zip
+https://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/releases/download/t1.1.5/KolonieZeitung.ocrd.ziphttps://github.com/tboenig/German-Brazilian-Newspapers-Dataset_2/releases/download/t1.1.5/DerPionier.ocrd.zip
