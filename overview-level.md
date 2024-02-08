@@ -41,9 +41,6 @@ It is a dataset created for evaluation of layout analysis methods.
          <td class="time" colspan="2">1863 - 1880</td>
       </tr>
       <tr>
-         <td class="guidelines" colspan="2"/>
-      </tr>
-      <tr>
          <td>
             <ul class="grid-l">
                <li class="key16">34</li>
